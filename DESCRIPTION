@@ -1,0 +1,19 @@
+Package: foofactors
+Title: My very FIRST R Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kyle",
+           family = "Vincent",
+           role = c("aut", "cre"),
+           email = "kyle.shane.vincent@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: You know what it does.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat
+Imports: 
+    forcats
